@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am 🇮🇩 a PhD student in 🗼🗾 . 
+My research interest are 
+- natural language processing in summarization ✍️ and reading comprehension 📖
+- cognitive science 🧠
+- machine learning 🤖
