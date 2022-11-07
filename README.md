@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am 🇮🇩 a PhD student in 🗼🗾 . 
+I am from 🇮🇩, a PhD student in 🗼🗾 . 
 My research interest are 
 - natural language processing in summarization ✍️ and reading comprehension 📖
 - cognitive science 🧠
