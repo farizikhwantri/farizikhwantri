@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am from 🇮🇩, a PhD student in 🗼🗾 . 
-My research interest are 
+I am from 🇮🇩, I am currently working as a Postdoctoral Fellow at Simula Research Laboratory in 🇳🇴 
+I completed my PhD at the Tokyo Institute of Technology (now Institute of Science Tokyo) 🗼🗾. 
+My research interests are 
 - natural language processing in summarization ✍️ and reading comprehension 📖
 - cognitive science 🧠
-- machine learning 🤖
+- machine learning 🤖 (e.g., explainability, bayesian optimization)
